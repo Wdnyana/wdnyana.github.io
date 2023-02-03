@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b1edb012.css",
-    "main.js": "/static/js/main.dd17e0dd.js",
+    "main.js": "/static/js/main.bfa63747.js",
     "static/media/kyn.png": "/static/media/kyn.91b7feef6752135f701f.png",
     "static/media/abc-learning.png": "/static/media/abc-learning.d35dacce2572b015f21b.png",
     "static/media/certification-networking.png": "/static/media/certification-networking.c4e278457239eaf7f1fc.png",
@@ -29,10 +29,10 @@
     "static/media/facebook.svg": "/static/media/facebook.7821ef13dce3d3e8f23c47c9312b57c3.svg",
     "static/media/download.svg": "/static/media/download.7460c4429a5da6042d323e35beb01803.svg",
     "main.b1edb012.css.map": "/static/css/main.b1edb012.css.map",
-    "main.dd17e0dd.js.map": "/static/js/main.dd17e0dd.js.map"
+    "main.bfa63747.js.map": "/static/js/main.bfa63747.js.map"
   },
   "entrypoints": [
     "static/css/main.b1edb012.css",
-    "static/js/main.dd17e0dd.js"
+    "static/js/main.bfa63747.js"
   ]
 }
