@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1edb012.css",
+    "main.js": "/static/js/main.dd17e0dd.js",
+    "static/media/kyn.png": "/static/media/kyn.91b7feef6752135f701f.png",
+    "static/media/abc-learning.png": "/static/media/abc-learning.d35dacce2572b015f21b.png",
+    "static/media/certification-networking.png": "/static/media/certification-networking.c4e278457239eaf7f1fc.png",
+    "static/media/the-character-project.png": "/static/media/the-character-project.80f2c4e6191eb48197bc.png",
+    "static/media/certification-ctf.png": "/static/media/certification-ctf.2f3adc976466bd75a494.png",
+    "static/media/python.png": "/static/media/python.46f7af2014e394a7eeec.png",
+    "static/media/portfolio.png": "/static/media/portfolio.c6dceb2cd9d113c2bf9c.png",
+    "static/media/Profile.png": "/static/media/Profile.67b33cf01394f4a57e07.png",
+    "static/media/Sass.png": "/static/media/Sass.162c6bebb95bfaee12df.png",
+    "static/media/cisco.png": "/static/media/cisco.8f136ff6a3da7ad8a21a.png",
+    "static/media/css.png": "/static/media/css.61f0bb7d0f92969061ac.png",
+    "static/media/java.png": "/static/media/java.d5572a557a9a4854bc8b.png",
+    "static/media/sql.png": "/static/media/sql.8f5ebd8ce0c3fd351bb5.png",
+    "static/media/travelling.png": "/static/media/travelling.deec980887c6b2edfa48.png",
+    "static/media/react.png": "/static/media/react.80158af66590239e20cb.png",
+    "static/media/js.png": "/static/media/js.6e69b3b714cb96a1ccbe.png",
+    "static/media/002-development.svg": "/static/media/002-development.5934730d9df788ae377d40c183b2488d.svg",
+    "static/media/001-target.svg": "/static/media/001-target.4730cad6bf40988687921284b8bb35a2.svg",
+    "static/media/share.svg": "/static/media/share.0852a8e40779234e7ba3f410c6cec8b3.svg",
+    "static/media/instagram.svg": "/static/media/instagram.dfa11b241f98ae252b03c9783e8d9242.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.f275dba08b16ffd6275eb3d0a4a20ba7.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.83df7454cd899546886963dfc1739937.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.070943ea1b04710929455b004642b283.svg",
+    "static/media/facebook.svg": "/static/media/facebook.7821ef13dce3d3e8f23c47c9312b57c3.svg",
+    "static/media/download.svg": "/static/media/download.7460c4429a5da6042d323e35beb01803.svg",
+    "main.b1edb012.css.map": "/static/css/main.b1edb012.css.map",
+    "main.dd17e0dd.js.map": "/static/js/main.dd17e0dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1edb012.css",
+    "static/js/main.dd17e0dd.js"
+  ]
+}
