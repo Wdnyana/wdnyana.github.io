@@ -1,0 +1,59 @@
+.navbar-brand {
+  font-family: "Raleway", sans-serif !important;
+  font-weight: 700;
+  margin-left: 0.6rem;
+}
+
+.nav-item {
+  .nav-link {
+    color: $color-title-2;
+    margin-left: 0.6rem !important;
+    font-weight: 500;
+  }
+}
+
+.navbar-nav {
+  margin: 0.3rem 0;
+}
+
+.nav-item {
+  .nav-link {
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: 400;
+    margin: 0.8rem 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-brand {
+    font-size: 2rem !important;
+  }
+
+  .image-hamburger {
+    width: 40px;
+  }
+
+  .nav-item {
+    .nav-link {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-brand {
+    margin-left: 0;
+  }
+
+  .navbar-nav {
+    margin: 0;
+  }
+
+  .nav-item {
+    .nav-link {
+      font-size: 1.2rem;
+      margin-left: 2.3rem;
+    }
+  }
+}

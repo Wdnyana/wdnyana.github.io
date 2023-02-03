@@ -1,0 +1,20 @@
+.skill-title {
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+}
+
+@media (min-width: 768px) {
+  .skill-title {
+    font-size: 2.2rem;
+  }
+}
+
+.img-logo {
+  height: 180px;
+
+  .logo-content {
+    height: 100% !important;
+    display: block;
+    margin: 0 auto;
+  }
+}

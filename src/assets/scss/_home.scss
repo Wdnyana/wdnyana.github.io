@@ -1,0 +1,98 @@
+@media (min-width: 768px) {
+  .mobile-display {
+    display: none;
+  }
+
+  .btn-img {
+    height: 10px;
+    margin-right: 6px;
+    font-family: "Lato", sans-serif !important;
+    font-size: 16px !important;
+  }
+
+  .display-4 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem !important;
+  }
+
+  .display-5 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 2.2rem !important;
+  }
+
+  .sub-display {
+    font-family: "Lato", sans-serif !important;
+    font-size: 20px !important;
+  }
+}
+
+@media (max-width: 992px) {
+  .button-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 992px) {
+  .custom {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+@media (min-width: 1000px) {
+  .button-group {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1200px) {
+  .button-group {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1400px) {
+  .button-group {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 767px) {
+  .desktop-display {
+    display: none;
+  }
+
+  .btn-img {
+    height: 10px;
+    margin-right: 6px;
+  }
+
+  .display-4 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem !important;
+  }
+
+  .display-5 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem !important;
+  }
+
+  .sub-display {
+    font-family: "Lato", sans-serif !important;
+    font-size: 16px !important;
+  }
+}

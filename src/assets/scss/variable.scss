@@ -1,0 +1,17 @@
+$background-body: #f5f5f5;
+$background-component: #27363b;
+$color-title-1: #627c80;
+$color-title-2: #27363b;
+$color-component: #afb7ba;
+$font: #929699;
+
+$theme-colors: (
+  "backg-body": $background-body,
+  "wave-1": #dddddd,
+  "wave-2": #dfe8e7,
+  "title-1": $color-title-1,
+  "title-2": $color-title-2,
+  "font-txt": $font,
+  "backg-component": $background-component,
+  "component-color": $color-component,
+);

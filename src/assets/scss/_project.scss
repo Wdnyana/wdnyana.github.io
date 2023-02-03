@@ -1,0 +1,18 @@
+.text-title {
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+}
+
+.text-2 {
+  font-family: "Lato", sans-serif !important;
+  font-size: 16px !important;
+}
+
+.img-poject {
+  max-height: 200px;
+  overflow: auto;
+
+  .img-content {
+    height: 100% !important;
+  }
+}

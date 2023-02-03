@@ -1,0 +1,55 @@
+.heading-about {
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+}
+
+.sub-text-about {
+  font-family: "Lato", sans-serif !important;
+  font-size: 16px !important;
+}
+
+@media (min-width: 768px) {
+  .heading-about {
+    font-size: 2.2rem !important;
+  }
+
+  .sub-text-about {
+    font-size: 20px !important;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.education {
+  margin: 6rem 0 7rem 0;
+}
+
+.text-title {
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+}
+
+.text-1,
+.text-2 {
+  font-family: "Lato", sans-serif !important;
+  font-size: 16px !important;
+}
+
+.img-icon {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.img-ser {
+  height: 300px;
+  overflow: auto;
+
+  .img-certif {
+    height: 100%;
+    width: 100% !important;
+    object-fit: cover !important;
+    object-position: 50 50 !important;
+  }
+}
