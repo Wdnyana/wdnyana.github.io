@@ -25,7 +25,7 @@ const Home = () => {
                 <div className="mt-4 button-group">
                   <a
                     className="text-decoration-none"
-                    href="https://drive.google.com/uc?export=download&id=1sz4dnctl_SYyqaiw9HEwRmSNzkomJ5HN"
+                    href="https://drive.google.com/uc?export=download&id=1KXsnr4Hk3CYYq6rJlraGEGCbk7J1aZ5o"
                   >
                     <button className="btn btn-download bg-wave-2 text-title-2 rounded-pill py-2 px-4 animate__animated animate__backInLeft">
                       <img src={Download} alt="download" className="btn-img" />
@@ -34,7 +34,7 @@ const Home = () => {
                   </a>
                   <a
                     className="text-decoration-none"
-                    href="https://drive.google.com/uc?export=download&id=1sz4dnctl_SYyqaiw9HEwRmSNzkomJ5HN"
+                    href="https://youtu.be/QIH8PM6MnEI"
                   >
                     <button className="btn btn-download bg-wave-2 text-title-2 rounded-pill mt-0 mt-md-2 mt-lg-0 py-2 px-4 animate__animated animate__backInRight">
                       <img src={Share} alt="download" className="btn-img" />
@@ -79,7 +79,7 @@ const Home = () => {
                 <div className="mt-4">
                   <a
                     className="text-decoration-none"
-                    href="https://drive.google.com/uc?export=download&id=1sz4dnctl_SYyqaiw9HEwRmSNzkomJ5HN"
+                    href="https://drive.google.com/uc?export=download&id=1KXsnr4Hk3CYYq6rJlraGEGCbk7J1aZ5o"
                   >
                     <button className="btn bg-wave-2 text-title-2 rounded-pill mb-2 me-3 py-2 px-4 animate__animated animate__backInLeft">
                       <img src={Download} alt="download" className="btn-img" />
@@ -88,7 +88,7 @@ const Home = () => {
                   </a>
                   <a
                     className="text-decoration-none"
-                    href="https://drive.google.com/uc?export=download&id=1sz4dnctl_SYyqaiw9HEwRmSNzkomJ5HN"
+                    href="https://youtu.be/QIH8PM6MnEI"
                   >
                     <button className="btn bg-wave-2 text-title-2 rounded-pill mb-2 py-2 px-4 animate__animated animate__backInRight">
                       <img src={Share} alt="download" className="btn-img" />
